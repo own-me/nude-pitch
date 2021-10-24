@@ -1,5 +1,5 @@
 # own-me-pitch
-Pitch deck and investor stuff.
+Pitch deck and investor stuff. (not finished / evolving)
 
 ## Community
 
@@ -14,3 +14,7 @@ https://ownme.io/
 [Twitter](https://twitter.com/own_me_nft)
 
 [Telegram](https://t.me/own_me_nft)
+
+## Rules / Code of Conduct
+
+1. Absolutely no adult content, nude content or pornography is allowed to be commited to Github. We only publish clean code.
