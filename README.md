@@ -1,19 +1,25 @@
-# own-me-pitch
-Pitch deck and investor stuff. (not finished / evolving)
+# nude-pitch
+Own Me's pitch deck and investor stuff for the $NUDE token and more. (not finished / evolving)
 
-## Community
+## Join our Community
 
 ![Navbar](https://user-images.githubusercontent.com/27584221/137842947-f80ab90a-cbba-4382-b729-dfb94e0e32f0.png)
 
 https://ownme.io/
 
+[Twitter](https://twitter.com/own_me_nft)
+
 [Discord](https://discord.gg/Ww5nckNGpS)
+
+[Telegram](https://t.me/own_me_nft)
 
 [Instagram](https://www.instagram.com/own_me_nft/)
 
-[Twitter](https://twitter.com/own_me_nft)
+[Reddit](https://www.reddit.com/r/OwnMeNFT/)
 
-[Telegram](https://t.me/own_me_nft)
+[Medium](https://medium.com/@own.me.nft)
+
+[Substack](https://ownme.substack.com/)
 
 ## Rules / Code of Conduct
 
